@@ -1,4 +1,3 @@
-
 footer {
   background-color: #eeeeee;
 }
@@ -22,7 +21,7 @@ footer .logo p {
 }
 footer .logo .icon {
   background-color: #1eb2a6;
-  color:#0098293d;
+  color: #0098293d;
   margin-right: 10px;
 }
 footer h3 {
@@ -34,7 +33,7 @@ footer ul li {
 }
 footer .link li::before {
   content: "⟶";
-  color:#0098293d;
+  color: #0098293d;
   margin-right: 5px;
 }
 footer .items {
@@ -69,13 +68,13 @@ footer .last i {
 }
 .legal {
   text-align: center;
-  padding: 80px 0;
-  color:  #009829;
+  padding: 20px 0;
+  color: #009829;
   background-color: #000000;
 }
 .legal p {
   font-size: 15px;
 }
 .legal i {
-  color:  #009829;
+  color: #009829;
 }
